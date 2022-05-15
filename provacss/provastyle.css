@@ -14,7 +14,7 @@ ul {
 
 
 
-header { 
+#homepage { 
   background-color: black; 
   color: #FFC0CB;
   padding: 5% 5% 0% 5%; 
@@ -32,7 +32,7 @@ nav {
  }
 
 
-nav ul { list-style-type: none; padding-left: 0px !important!; }
+
 nav ul li a:hover {color: #fdecda;}
 
 nav ul li {
