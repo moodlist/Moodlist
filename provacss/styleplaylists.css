@@ -52,15 +52,14 @@ font-family: 'Josefin Sans', sans-serif !important;}
 #tiktok {color: #FFE4C4;}
 #mail {color: #FFE4C4;}
 
-.copertine {max-width:150px; 
-             padding: 0px 40px 40px 40px
+
 
 }
  p{font-family: 'Josefin Sans',sans-serif; text-transform: uppercase; text-align: center; font-size: 1.5em; margin: 10% ; padding-top:10%
  }
  #cerchio:{vertical-align: middle; display: block; margin: 0 auto;}
 
-.copertine {max-width:250px; 
+.copertine {max-width:300px; 
              padding: 40px; display: inline-block; margin-right: auto; margin-left: auto  
 
 

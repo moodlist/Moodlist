@@ -12,11 +12,21 @@ h1 {
 	text-align: center;
 }
 
-.card-img-top {width: 500px; height: 500px;
-margin-bottom: 0%;}
 
-.card-title {margin-top: 0%;}
-}
+.card {width: 50%;
+height: 50%;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 5%;
+margin-top: 5%;}
+
+ 
+.card-img-top {width: 80%;
+height: 80%;}
+
+.card-title 
+
+
 
 body { margin: 0px; 
   text-align: center;
@@ -46,6 +56,9 @@ h1 {
   font-size: 10em;
   font-family: 'Yeseva One', cursive; 
   padding-top: 5%;
+  padding-bottom: 3%;
+
+
 
 }
 #logo {max-width: 30%; 
@@ -72,9 +85,6 @@ font-family: 'Josefin Sans', sans-serif !important;}
 #twitter {color: #FFE4C4;}
 #tiktok {color: #FFE4C4;}
 #mail {color: #FFE4C4;}
-
-
-
 }
  
 p {font-family: 'Josefin Sans',sans-serif; text-transform: uppercase; text-align: center; font-size: 1.5em; margin: 10% ; padding-top:10%
@@ -82,4 +92,9 @@ p {font-family: 'Josefin Sans',sans-serif; text-transform: uppercase; text-align
  
 #navbar{ background-color: black; opacity:1}
 
-
+#reviews {font-family: 'Josefin Sans',sans-serif;
+font-size: 1.5em;
+text-align: center;
+margin-right: 10%;
+margin-left: 10%; 
+margin-bottom: 0%;}
