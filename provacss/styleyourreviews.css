@@ -13,20 +13,21 @@ h1 {
 }
 
 
-.card {width: 50%;
-height: 50%;
+.card {width: 30%;
+height: 30%;
 margin-left: 5%;
 margin-right: 5%;
 margin-bottom: 5%;
 margin-top: 5%;}
 
  
-.card-img-top {width: 80%;
-height: 80%;}
-
-.card-title 
+.card-img-top {width: 30%;
+height: 30%;}
 
 
+
+p {font-family:'Josefin Sans', sans-serif; 
+ font-size: 1.5em;}
 
 body { margin: 0px; 
   text-align: center;
