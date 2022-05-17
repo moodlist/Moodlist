@@ -72,14 +72,24 @@ font-size: 1.3em; }
 
 #navbar{ background-color: black; opacity:1}
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
 	.copertine {max-width: 400px;
 		padding: 50px;
 		display: inline-block;
 		margin-right: auto;
 		margin-left: auto; }
-#navbar {opacity: 0.5;
-background-color: black;
+#navbar {opacity: 1;
+
 }
 .whitelink {font-size: 2em;}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    background-color: #FFC0CB;
 }
