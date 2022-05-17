@@ -71,3 +71,15 @@ h2 {text-align: center;font-size: 3em; font-family: 'Yeseva One', cursive;
 font-size: 1.3em; }
 
 #navbar{ background-color: black; opacity:1}
+
+@media screen and (max-width: 600px) {
+	.copertine {max-width: 400px;
+		padding: 50px;
+		display: inline-block;
+		margin-right: auto;
+		margin-left: auto; }
+#navbar {opacity: 0.5;
+background-color: black;
+}
+.whitelink {font-size: 2em;}
+}

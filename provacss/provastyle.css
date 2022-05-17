@@ -222,3 +222,35 @@ color: #FFC0CB}
 
 }
 #section{text-align: center;}
+
+@media screen and (max-width: 600px) {
+  #button1 { text-align: center;
+margin-left: 30%;
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+background-color: black;
+text-decoration: bold;
+border-color: black;
+width: 20%;
+height: 30%;
+font-size: 1.5em;
+  
+  }
+
+#button2 {text-align: center;
+margin-left: 50%;
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+background-color: black;
+text-decoration: bold;
+border-color: black;
+margin-bottom: 7%;
+width: 20%;
+height: 30%;
+font-size: 1.5em;}
+}
+
+#mail {color: #FFE4C4; 
+font-family:'Josefin Sans', sans-serif;
+text-transform: lowercase; }
+}
