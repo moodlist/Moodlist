@@ -123,23 +123,20 @@ margin-bottom: 3%; }
 
 footer {background-color:black;
 display: block;
-font-family: 'Josefin Sans', sans-serif;
+ 
 font-size:1.5em;
 margin-top: 9%;
 text-align: center; 
 color: #fdecda;
-text-decoration: none;}
+text-decoration: none; font-family:'Josefin Sans', sans-serif; }
 
-.footer {color: black;
+.footer {color: #fdecda;
 text-decoration: none;
-font-family:'Josefin Sans', sans-serif; }
+font-family: 'Josefin Sans', sans-serif !important;}
 .footer:hover{color: #FFC0CB;}
 
 
-#insta {color: #FFE4C4;}
-#twitter {color: #FFE4C4;}
-#tiktok {color: #FFE4C4;}
-#mail {color: #FFE4C4;}
+
 
 p {font-family:'Josefin Sans', sans-serif;
 text-transform: uppercase;

@@ -48,16 +48,17 @@ text-decoration: none;
 font-family: 'Josefin Sans', sans-serif !important;}
 .footer:hover{color: #FFC0CB;}
 
-#insta {color: #FFE4C4;}
-#twitter {color: #FFE4C4;}
-#tiktok {color: #FFE4C4;}
-#mail {color: #FFE4C4;}
 
 
 
-}
+
  
-p {font-family: 'Josefin Sans',sans-serif; text-transform: uppercase; text-align: center; font-size: 1.5em; margin: 10% ; padding-top:10%
+p {font-family: 'Josefin Sans',sans-serif; 
+text-transform: uppercase; 
+text-align: center; 
+font-size: 1.5em; 
+margin: 10% ;
+padding-top: 50px;
 }
  
 #navbar{ background-color: black; opacity:1}
@@ -66,7 +67,47 @@ p {font-family: 'Josefin Sans',sans-serif; text-transform: uppercase; text-align
 text-transform: uppercase; 
 text-align: center; 
 font-size: 1.5em;
-margin: 10%; 
-padding-top:10% }
+margin: 3%; 
+padding-top:4%;
+}
+
+iframe {height: 300px;
+width: 500px;}
 
 #section {text-align: center;}
+
+@media screen and (max-width: 1000px) {
+	
+#navbar {opacity: 1;
+
+}
+.whitelink {font-size: 2em;}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    background-color: #FFC0CB;
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    background-color: #FFC0CB;
+    transition: box-shadow .15s ease-in-out;
+}
+}
+
+#qr2 {max-width: 17%;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+#qr3 {max-width: 14%;}

@@ -21,10 +21,9 @@ li.active a {color:#fdecda;}
 font-size: 1em;}
 
 h1 {
-	text-align: center; 
-	margin: 0px auto;
-	font-size: 10em;
-
+	text-align: center;font-size: 3em; 
+    font-family: 'Yeseva One', cursive; 
+    padding-top: 70px;
 }
 #logo {max-width: 30%; 
 	margin: 10px 10%;
@@ -47,10 +46,7 @@ text-decoration: none;
 font-family: 'Josefin Sans', sans-serif !important;}
 .footer:hover{color: #FFC0CB;}
 
-#insta {color: #FFE4C4;}
-#twitter {color: #FFE4C4;}
-#tiktok {color: #FFE4C4;}
-#mail {color: #FFE4C4;}
+
 
 
 
@@ -63,8 +59,6 @@ font-family: 'Josefin Sans', sans-serif !important;}
              padding: 40px; display: inline-block; margin-right: auto; margin-left: auto  
 
 
-}
-h2 {text-align: center;font-size: 3em; font-family: 'Yeseva One', cursive; 
 }
 
 .scritte {font-family: 'Josefin Sans',sans-serif; 
