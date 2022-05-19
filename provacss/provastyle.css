@@ -175,6 +175,11 @@ font-size: 9em;
 margin-bottom: 5%;
 }
 
+h4 {font-family: 'Yeseva One', cursive;
+text-align: center;
+font-size: 9em;
+margin-bottom: 5%;}
+
 /*#noi {font-family:'Josefin Sans', sans-serif;
 font-size: 1.5em;
 text-align: left;
@@ -251,3 +256,6 @@ font-size: 1.5em;}
 font-family:'Josefin Sans', sans-serif;
 text-transform: lowercase; }
 }
+
+#documentazione {font-size: 1em;
+font-family:'Josefin Sans', sans-serif; }

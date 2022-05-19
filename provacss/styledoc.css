@@ -1,0 +1,26 @@
+.foto {max-width: 600px;
+}
+
+
+p {font-size: 1.5em;
+font-family: 'Josefin Sans', sans-serif;}
+
+h1 {font-family: 'Yeseva One', cursive;
+font-size: 2em;}
+
+h2 {font-family: 'Yeseva One', cursive;
+font-size: 2em;}
+
+h3 {font-family: 'Yeseva One', cursive;
+font-size: 2em;}
+
+h4 {font-family: 'Yeseva One', cursive;
+font-size: 2em;}
+
+h5 {font-family: 'Yeseva One', cursive;
+font-size: 2em;}
+
+.titolo {font-weight: bold;}
+
+.spiegazionefoto {font-size: 1.3em;
+font-weight: bold!important;}
